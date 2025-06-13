@@ -1,6 +1,6 @@
 # WhatsApp Floating Button WordPress Plugin
 
-![Plugin Version](https://img.shields.io/badge/version-1.6-blue)  
+![Plugin Version](https://img.shields.io/badge/version-1.1-blue)  
 A customizable WhatsApp floating button with an optional sticky bottom bar for mobile and tablet devices, built for WordPress.
 
 ## Overview
