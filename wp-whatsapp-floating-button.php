@@ -2,7 +2,7 @@
 /*
 Plugin Name: WhatsApp Floating Button
 Description: A customizable WhatsApp floating button with an optional sticky bottom bar for mobile and tablet.
-Version: 1.6
+Version: 1.1
 Author: WizScript
 */
 
